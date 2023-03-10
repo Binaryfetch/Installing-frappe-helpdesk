@@ -92,8 +92,8 @@ sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
 [mysql]
  default-character-set = utf8mb4
 ```
-#### Now press (Ctrl+o) to save 
-#### Now press (ctrl+x) to exit
+#### Now press (Ctrl+o) to save then press (ctrl+x) to exit
+
 
 #### Then run
 ``` python 
