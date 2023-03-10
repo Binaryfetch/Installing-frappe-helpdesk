@@ -9,7 +9,7 @@ FrappeDesk offers an easy setup, clean user interface, and automation tools to r
 ## Commands for ubuntu 22.04 LTS 
 
 ## Install the frappe bench 
-## If done then [click here](https://binaryfetch.github.io/Installing-frappe-helpdesk/## now-download-the-helpdesk-app)
+## If done then [click here](https://binaryfetch.github.io/Installing-frappe-helpdesk/##now-download-the-helpdesk-app)
 
 ## Pre-requisites
 ``` python 
