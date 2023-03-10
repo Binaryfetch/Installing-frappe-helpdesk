@@ -1,4 +1,12 @@
 # Installing Frappe Helpdesk
+<br>
+FrappeDesk offers an easy setup, clean user interface, and automation tools to resolve customer issues efficiently. It is based on Frappe Framework. It lets you streamline your company's support and helps you to efficiently manage your customer queries. It can help you to,
+
+- Create tickets from email or help center
+- Empower customers with a comprehensive knowledge base and self-service portal
+- Automate redundant tasks like agent assignment and set up triggers to notify agents and customers based on certain events
+
+Commands for ubuntu 22.04 LTS 
 
 ## Pre-requisites
 ``` python 
