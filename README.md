@@ -6,7 +6,7 @@ FrappeDesk offers an easy setup, clean user interface, and automation tools to r
 - Empower customers with a comprehensive knowledge base and self-service portal
 - Automate redundant tasks like agent assignment and set up triggers to notify agents and customers based on certain events
 
-Commands for ubuntu 22.04 LTS 
+##Commands for ubuntu 22.04 LTS 
 
 ## Pre-requisites
 ``` python 
