@@ -12,7 +12,7 @@ FrappeDesk offers an easy setup, clean user interface, and automation tools to r
 ## If done then [click here](https://binaryfetch.github.io/Installing-frappe-helpdesk/#now-download-the-helpdesk-app)
 
 ## Pre-requisites
-``` python 
+```html
   Python 3.6+
   Node.js 14.18.0 =+
   Redis 5                                       (caching and real time updates)
